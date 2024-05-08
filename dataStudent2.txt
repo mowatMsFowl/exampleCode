@@ -1,0 +1,11 @@
+111222333,Mickey,Mouse,92,92,92,92,92,92,,,University of Toronto
+999999999,Donald,Duck,45,50,63,44,50,73,80,12,Ryerson University
+229222334,Marvin,Martian,99,99,99,99,99,99,,,Waterloo University
+565412345,Foghorn,Leghorn,75,75,75,75,75,75,,75,Harvard
+777412345,Naruto,Uzumaki,75,95,99,75,75,75,,75,Acadia University
+333412345,Vegeta,,75,75,75,75,75,75,,75,Dalhousie University
+421412345,Kakashi,Hatake,75,75,75,75,75,75,,75,Saint Francis Xavier
+666000345,Ichigo,Kurosaki,75,75,75,75,75,75,,75,Saint Mary's University
+898411145,Ken,Kaneki,75,75,75,75,75,75,,75,Queens University
+765412333,Orihime,Inoue,75,75,75,75,75,75,,75,McMaster University
+123412345,Kisuke,Urahara,75,75,75,75,75,75,,75,University of British Columbia
