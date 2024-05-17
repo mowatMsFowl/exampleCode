@@ -14,18 +14,10 @@ class DisplayImage
         // Read from a file
          File file = new File("bubble.jpg");
          image = ImageIO.read(file);
-      // 
-//         // Read from an input stream
-//          InputStream is = new BufferedInputStream(new FileInputStream("bubble.jpg"));
-//          image = ImageIO.read(is);
-//       
-//         // Read from a URL
-//          URL url = new URL("http://hostname.com/image.gif");
-//          image = ImageIO.read(url);
       } catch (IOException e) {
       }
     
-    // Use a label to display the image
+      // Use a label to display the image
       JFrame frame = new JFrame();
       JLabel label = new JLabel(new ImageIcon(image));
       frame.getContentPane().add(label, BorderLayout.CENTER);
